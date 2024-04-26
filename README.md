@@ -1,4 +1,3 @@
-Sure! Here's an example of how the README file for your loan worthiness prediction project on GitHub could look like:
 
 # Loan Worthiness Prediction Project
 
